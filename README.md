@@ -1,6 +1,8 @@
 # REVOLUT - A world of better money management
+![alt text](logo.png)
 ## Overview and Origin
-* Revolut
+* Revolut  
+* [Website](https://www.revolut.com/en-US)
 * Incorporated in July 2015
 * Founders
 
